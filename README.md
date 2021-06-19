@@ -1,3 +1,7 @@
+# Quick Introduction Of Twitter-Clone
+https://user-images.githubusercontent.com/63940752/122636020-e70f9b00-d09b-11eb-9b94-3a7fe68e80ec.mp4
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
